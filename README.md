@@ -1,3 +1,3 @@
 # TheAlbert1
 
-- Student.
+Student.
