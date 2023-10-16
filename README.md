@@ -25,4 +25,4 @@ Sike! Leave me alone
 
 Feel free to explore my repositories, and hesitate to reach out if you have any questions or collaboration ideas!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thealbert1.thealbert1)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TheAlbert1.TheAlbert1)
