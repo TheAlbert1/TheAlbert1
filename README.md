@@ -21,6 +21,6 @@ Here aren't some of the projects I've been working on:
 
 ## Connect with Me
 
-Sike! Leave me alone
+Sike!
 
 Feel free to explore my repositories, and hesitate to reach out if you have any questions or collaboration ideas!
