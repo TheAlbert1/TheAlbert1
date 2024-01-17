@@ -9,9 +9,9 @@ I'm Albert, a student in Sweden passionate about networking (you know, the kind 
 ## Projects I like
 Here are some projects I like:
 
-1. [youtube-dl](https://github.com/ytdl-org/youtube-dl): download YouTube videos from the command-line.
-2. [oxipng](https://github.com/shssoichiro/oxipng): PNG compressor.
-3. [Linux kernel](https://github.com/torvalds/linux): the Linux kernel.
+1. [youtube-dl](https://github.com/ytdl-org/youtube-dl): download YouTube videos from the command-line
+2. [oxipng](https://github.com/shssoichiro/oxipng): PNG compressor
+3. [Linux kernel](https://github.com/torvalds/linux): the Linux kernel
 
 ## Skills
 - HTML and CSS
@@ -19,4 +19,4 @@ Here are some projects I like:
 - Always being on time
 
 ## That's it!
-Feel free to explore my repositories. Reach out if you have any questions or collaboration ideas.
+Feel free to explore my repositories. Reach out if you have any questions.
