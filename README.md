@@ -16,7 +16,7 @@ Here are some projects I like:
 ## Skills
 - HTML and CSS
 - Being good at listening
-- Awlays being on time
+- Always being on time
 
 ## That's it!
 Feel free to explore my repositories. Reach out if you have any questions or collaboration ideas.
