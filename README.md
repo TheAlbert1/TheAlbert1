@@ -1,4 +1,4 @@
-I'm Albert, a student passionate about networking. Welcome to my GitHub profile!
+I'm Albert, a student in Sweden passionate about networking (you know, the kind where there's cables and internet and stuff). Welcome to my profile.
 
 ## About me
 - I'm currently learning networking and programming
