@@ -1,22 +1,16 @@
-I'm Albert, a student in Sweden passionate about networking (you know, the kind where there's cables and internet and stuff). Welcome to my profile.
+# Hello :-)
+I'm Albert, a student in Sweden intrigued by all things IT. Currently learning about computer networks, configuring servers, and troubleshooting them. Also learning about basic web development where I make a simple, static website from scratch. I value good cable management, and believe there's always something to learn.
 
-## About me
-- I'm currently learning networking and programming
-- I like networking especially much. From making the internet cables, to configuring switches, to troubleshooting
-- I value good cable management
-- I believe there's always something to learn, no matter how much knowlede you have
+## Projects I like:
 
-## Projects I like
-Here are some projects I like:
+- [libjxl](https://github.com/libjxl/libjxl): the reference implementation for the new and exciting JPEG XL image format
+- [oxipng](https://github.com/shssoichiro/oxipng): a good lossless PNG compressor that I find myself using frequently
+- [FLAC](https://github.com/xiph/flac): who doesn't like a free lossless audio codec?
 
-1. [youtube-dl](https://github.com/ytdl-org/youtube-dl): download YouTube videos from the command-line
-2. [oxipng](https://github.com/shssoichiro/oxipng): PNG compressor
-3. [Linux kernel](https://github.com/torvalds/linux): the Linux kernel
-
-## Skills
-- HTML and CSS
-- Being good at listening
+## Things I'm good at:
+- Writing HTML and CSS by hand
 - Always being on time
+- Being comfortable with terminals/CLIs
 
 ## That's it!
-Feel free to explore my repositories. Reach out if you have any questions.
+Feel free to look around my nonexistent projects (they'll come with time!), and reach out via an issue if you have any questions.
