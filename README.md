@@ -1,7 +1,9 @@
 # Hello :-)
-I'm Albert, a student in Sweden intrigued by all things IT. Currently learning about computer networks, configuring servers, and troubleshooting them. Also learning about basic web development where I make a simple, static website from scratch. I value good cable management, and believe there's always something to learn.
+I'm Albert, a student in Sweden intrigued by all things IT.
 
-I'm comfortable with command-line interfaces, handling hardware, and writing HTML as well as CSS. Feel free to look around my projects (they'll come with time!), and reach out via an issue if you have any questions.
+Currently learning about computer networks, managing physical servers and server racks, web development, and deploying networks. There's always something to learn.
+
+Feel free to look around my projects (they'll come with time!), and reach out via an issue if you have any questions.
 
 ## Projects I like:
 - [libjxl](https://github.com/libjxl/libjxl): the reference implementation for the new and exciting JPEG XL image format
