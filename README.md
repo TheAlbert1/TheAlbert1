@@ -1,7 +1,5 @@
 # Hello :-)
-I'm Albert, a student in Sweden intrigued by all things IT.
-
-Currently learning about computer networks, deploying them, managing network equipment, and web development. There's always something fun to learn.
+I'm Albert, a student in Sweden intrigued by all things IT. There's always something fun to learn.
 
 Feel free to look around my projects (they'll come with time), and reach out via an issue if you have any questions.
 
